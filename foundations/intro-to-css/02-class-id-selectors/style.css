@@ -1,0 +1,22 @@
+.pink-highlight {
+  background-color: #ffa6a7;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#Num2 #Num4 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Num2 {
+  color: #0000ff;
+  font-size: xx-large;
+}
+
+#Num3 {
+  font-size: x-large;
+}
+
+#Num4 {
+    background-color: #80ff80;
+    font-weight: bolder;
+}

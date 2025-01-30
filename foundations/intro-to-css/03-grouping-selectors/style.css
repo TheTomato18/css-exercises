@@ -1,15 +1,15 @@
-#Click1, #Click2 {
+.Click1, .Click2 {
     border-color: grey;
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
-#Click1 {
+.Click1 {
     background-color: black;
     color: white;
 }
 
-#Click2 {
+.Click2 {
     background-color: yellow;
     color: black;
 }
